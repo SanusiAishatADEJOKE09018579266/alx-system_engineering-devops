@@ -1,1 +1,1 @@
-Delete the directory my_first_directory that is in the /tmp directory
+a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0
