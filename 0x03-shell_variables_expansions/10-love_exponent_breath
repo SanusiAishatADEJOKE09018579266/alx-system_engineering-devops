@@ -1,1 +1,1 @@
-echo $((BREATH**LOVE))
+$((BREATH**LOVE))
