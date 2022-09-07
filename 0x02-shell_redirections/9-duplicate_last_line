@@ -1,2 +1,2 @@
-#!/bin/ba
-tail -1 iacta >> iacta 
+#!/bin/bash
+tail -n l iacta >>iacta
