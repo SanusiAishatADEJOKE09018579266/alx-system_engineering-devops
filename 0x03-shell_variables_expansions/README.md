@@ -1,1 +1,1 @@
-a script that encodes and decodes text using the rot13 encryption
+script that encodes and decodes text using the rot13 encryption. Assume ASCII
